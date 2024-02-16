@@ -13,3 +13,4 @@ The ticker with the Greatest % Increase in green.
 The ticker with the Greatest % Decrease in red.
 The ticker with the Greatest Total Volume.
 Conditional formatting is applied to the "Yearly Change" column to visually distinguish positive changes (green) from negative changes (red).
+
